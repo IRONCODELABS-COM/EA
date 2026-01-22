@@ -3,6 +3,8 @@ layout: default
 title: Iron Code Labs Enterprise Architectur:we (ICLEA)
 ---
 
+![](assets/ICLogo.png)
+
 # Enterprise Architecture Framework
 
 ## Overview
