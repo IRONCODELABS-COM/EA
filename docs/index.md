@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Iron Code Labs Enterprise Architecture (ICLEA)
+title: Iron Code Labs Enterprise Architectur:we (ICLEA)
 ---
 
 # Enterprise Architecture Framework
@@ -21,7 +21,7 @@ Enterprise Architecture aligns business and technology
 - Evolve: Distributed systems (when feasible)
 - Deploy: Containerized solutions
 
-## ICLEA Components
+## ICL EA Components
 
 ### Business Layer
 Product definition and business capability mapping
