@@ -12,12 +12,17 @@ title: Iron Code Labs Enterprise Architecture (ICLEA)
 
 ## Core Principles
 
-> **NOTE: Role of the EA**
+> &nbsp;
+> 
+> Primary role of the EA
+> 
 > **Enterprise Architecture aligns business and technology**
+>
+> &nbsp;
 
 ### Climbing the CMM Lader
 
-Precondition to enable the alignment is transformation of the organization. 
+Precondition to the alignment is transformation of the organization. 
 
 Formal method for managing and mesuring organisation capability and maturity is based on TOGAF CMM. For details please [proceed here](pages/cmm.md).  
 
