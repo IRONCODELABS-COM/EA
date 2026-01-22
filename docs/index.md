@@ -12,7 +12,7 @@ title: Iron Code Labs Enterprise Architectur:we (ICLEA)
 
 ## Core Principles
 
-> [!NOTE] Role of the EA
+> **NOTE: Role of the EA**
 > **Enterprise Architecture aligns business and technology**
 
 ### Climbing the CMM Lader
