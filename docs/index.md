@@ -3,11 +3,12 @@ layout: default
 title: Iron Code Labs Enterprise Architectur:we (ICLEA)
 ---
 
-![](assets/ICLogo.png)
+<!-- ![](assets/ICLogo.png) -->
 
 # ICL Enterprise Architecture 
 
-**ICL EA is TOGAF framework tailored.**
+- **ICL EA is based on the TOGAF framework**
+- it is aligned with the aim of performing small but measurable steps delivering a visible benefits
 
 ## Core Principles
 
