@@ -37,5 +37,3 @@ Alignment mechanisms and decision frameworks
 Following TOGAF ADM phases for structured architecture development and governance.
 
 ---
-
-*Dusan is TOGAF-Registered Enterprise Architect*
