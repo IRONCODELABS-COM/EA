@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Iron Code Labs Enterprise Architectur:we (ICLEA)
+title: Iron Code Labs Enterprise Architecture (ICLEA)
 ---
 
 <!-- ![](assets/ICLogo.png) -->
