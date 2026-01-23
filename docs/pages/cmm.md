@@ -54,7 +54,13 @@ The nine architecture characteristics offer a granular perspective on various di
 
 Each characteristic is assessed independently across the maturity levels (M0–M5), giving a multi-dimensional view rather than a single score. An organisation might be M3 on Governance but M1 on Business Linkage.
 
-    Practical use: Helps identify specific capability gaps rather than blanket “you’re immature” statements — useful for targeted improvement roadmaps.
+>&nbsp;
+>
+>Practical use: CMM "meter" helps identify specific capability gaps rather than blanket “you’re immature” statements 
+>
+>Useful for targeted improvement roadmaps.
+>
+>&nbsp;
 
 ## Conclusion
 The Architecture Capability Framework in TOGAF, particularly the Architecture Capabilities Maturity Model, empowers organisations to enhance their Technology3-related development processes systematically. By leveraging the structured approach of maturity levels and characteristics, organisations can not only gain control over their architecture but also pave the way for continuous improvement. As the technological landscape continues to evolve, embracing frameworks like ACMM becomes imperative for organisations aspiring to thrive in the realm of Information Technology.
