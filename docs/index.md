@@ -22,7 +22,7 @@ title: Iron Code Labs Enterprise Architecture (ICLEA)
 
 ### Climbing the CMM Lader
 
-Precondition to the alignment is transformation of the organization. 
+Precondition to the alignment is transformation of the organization, into the [commercial enterprise](pages/commercial_enterprise.md).
 
 Formal method for managing and mesuring organisation capability and maturity is based on TOGAF CMM. For details please [proceed here](pages/cmm.md).  
 
@@ -38,6 +38,10 @@ ICL has developed simplified CMM Method.  It is simplified just becuase it is al
 - Start: Modular monoliths 
 - Evolve: Distributed systems (when feasible)
 - Deploy: Containerized solutions
+
+## But where is the EA?
+
+[EA is a marketing term. LLM is engineering](pages/AI.md).
 
 
 <!-- 
