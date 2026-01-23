@@ -30,6 +30,8 @@ ICL has developed simplified CMM Method.  It is simplified just becuase it is al
 
 ### Decoupling Business and Technology 
 
+[BPT Meta Loop](pages/bpt.md) is the method for guidining the overal enterprise process: from Arhictecture to Product delivery
+
 - Business declares products
 - Technology implements products
 - EA guides the organization and manages the whole process 
