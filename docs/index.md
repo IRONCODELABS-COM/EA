@@ -39,9 +39,9 @@ ICL has developed simplified CMM Method.  It is simplified just becuase it is al
 - Evolve: Distributed systems (when feasible)
 - Deploy: Containerized solutions
 
-## But where is the EA?
+## But where is the IA?
 
-[EA is a marketing term. LLM is engineering](pages/AI.md).
+[IA is a marketing term. LLM is engineering](pages/AI.md).
 
 
 <!-- 
