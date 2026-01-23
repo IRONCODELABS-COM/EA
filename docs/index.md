@@ -3,7 +3,7 @@ layout: default
 title: Iron Code Labs Enterprise Architecture (ICLEA)
 ---
 
-<!-- ![](assets/ICLogo.png) -->
+![](assets/icl_ea_clogs.png) 
 
 # ICL Enterprise Architecture 
 
