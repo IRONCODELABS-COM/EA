@@ -1,63 +1,73 @@
 ---
 layout: default
 title: Iron Code Labs Enterprise Architecture (ICLEA)
+description: Home
 ---
 
-![](assets/icl_ea_clogs.png) 
 
-# ICL Enterprise Architecture 
+# ICL Enterprise Architecture
 
-- **ICL EA is based on the TOGAF framework**
-- it is aligned with the aim of performing small but measurable steps delivering a visible benefits
 
-## Core Principles
+## 1. What is Enterprise Architecture?
 
 > &nbsp;
-> 
+>
 > Primary role of the EA
-> 
+>
 > **Enterprise Architecture aligns business and technology**
 >
 > &nbsp;
+> ![](assets/icl_ea_clogs.png)
 
-### Climbing the CMM Lader
+### What is ICL EA? 
+(aka: Iron Code Labs Enteprrise Architecture)
+- **ICL EA is a subset of TOGAF**
+   - It is taylored, by our EA, for you
+   - Guding principle: Aligned with the aim of performing small but measurable steps delivering visible benefits
 
-Precondition to the alignment is transformation of the organization, into the [commercial enterprise](pages/commercial_enterprise.md).
+Precondition to alignment is transformation of the organization into a [commercial enterprise](pages/commercial_enterprise.md).
 
-Formal method for managing and mesuring organisation capability and maturity is based on TOGAF CMM. For details please [proceed here](pages/cmm.md).  
+## 2. Climbing the LLM Ladder
 
-ICL has developed simplified CMM Method.  It is simplified just becuase it is aligned to small to medium size organizations.
+**Why?** Formal method for managing and measuring organisation capability and maturity is based on TOGAF CMM. For details please [proceed here](pages/cmm.md).
 
-### Decoupling Business and Technology 
+**How?** ICL has developed a simplified CMM adoption Method. It is simplified because it is aligned to the core idea of fast but feasible delivery under the guidance of ICL EA.
 
-[BPT Meta Loop](pages/bpt.md) is the method for guidining the overal enterprise process: from Arhictecture to Product delivery
+[AI is a marketing term. LLM is engineering](pages/AI.md).
 
+## 3. Evolving feasibly and measurably guided by EA
+
+- Architect
+- Develop
+- Deploy
+- Repeat
+
+### Decoupling Business and Technology
 - Business declares products
 - Technology implements products
-- EA guides the organization and manages the whole process 
+- EA guides the organization and manages the whole process
 
-### Evolving Measurably
-- Start: Modular monoliths 
-- Evolve: Distributed systems (when feasible)
-- Deploy: Containerized solutions
+## 4. How is Feasible Delivery achieved?
 
-## But where is the IA?
+By following the ICL BPT Methodology.
+Core of the BPT Methodology is **BPT Meta Loop**.
 
-[IA is a marketing term. LLM is engineering](pages/AI.md).
+[BPT Meta Loop](pages/bpt.md) is the agile method for guiding the overall enterprise process: from Architecture to Product delivery, guided by our simplified TOGAF approach.
 
+Key actors in the BPT Metdology
 
-<!-- 
-### Business Layer
-Product definition and business capability mapping
+- **Business** declares products
+- **Product** bridges business needs and technical capabilities
+- **Technology** implements products
+- **EA** guides the organization and manages the whole process
 
-### Technology Layer
-Implementation patterns and infrastructure
+## 5. [AI is inside](pages/AI.md)
 
-### EA Governance
-Alignment mechanisms and decision frameworks
+- Our guding principle is to understand why and how we and our customers use AI. 
+- We are not used by AI. 
+- If things go wrong we do not blame it on AI. 
+- AI is marketing term. LLM is enginering. 
+- We do not blame it on the tool.
 
-## TOGAF Integration
-
-Following TOGAF ADM phases for structured architecture development and governance.
-
--->
+---
+Subject to change material in this site is &copy; dbj@dbj.org , CC BY SA 4.0
