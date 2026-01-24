@@ -4,8 +4,10 @@ title: Iron Code Labs Enterprise Architecture (ICLEA)
 description: Home
 ---
 
+## What is a Commercial Enterpise?
 
-# ICL Enterprise Architecture
+- Business entity aligned to external and internal forces. Best describd with a diagram.
+   - [Commercial enterprise](pages/commercial_enterprise.md) in the global geo-political continuum.
 
 
 ## 1. What is Enterprise Architecture?
@@ -18,24 +20,23 @@ description: Home
 >
 > &nbsp;
 > ![](assets/icl_ea_clogs.png)
+>
+> [TOGAF](https://www.opengroup.org/togaf) is a global standard for management of Enterprise Architecture. Aim is very simple: to improve the business eficiency.
+>
+> &nbsp;
 
-### What is ICL EA? 
-(aka: Iron Code Labs Enteprrise Architecture)
-- **ICL EA is a subset of TOGAF**
+## 2. Iron Code Labs Enteprrise Architecture (ICL EA)
+- **ICL EA is a subset of [TOGAF](https://www.opengroup.org/togaf)**
    - It is taylored, by our EA, for you
    - Guding principle: Aligned with the aim of performing small but measurable steps delivering visible benefits
 
-Precondition to alignment is transformation of the organization into a [commercial enterprise](pages/commercial_enterprise.md).
+## 3. Climbing the LLM Ladder
 
-## 2. Climbing the LLM Ladder
-
-**Why?** Formal method for managing and measuring organisation capability and maturity is based on TOGAF CMM. For details please [proceed here](pages/cmm.md).
+**Why?** CMM is a formal foundation for managing and measuring organisation capability and maturity. It is based on TOGAF CMM. For details please [proceed here](pages/cmm.md).
 
 **How?** ICL has developed a simplified CMM adoption Method. It is simplified because it is aligned to the core idea of fast but feasible delivery under the guidance of ICL EA.
 
-[AI is a marketing term. LLM is engineering](pages/AI.md).
-
-## 3. Evolving feasibly and measurably guided by EA
+### Evolving feasibly and measurably guided by ICL EA
 
 - Architect
 - Develop
@@ -70,4 +71,4 @@ Key actors in the BPT Metdology
 - We do not blame it on the tool.
 
 ---
-Subject to change material in this site is &copy; dbj@dbj.org , CC BY SA 4.0
+Subject to change, material in this site is &copy; dbj@dbj.org , CC BY SA 4.0
