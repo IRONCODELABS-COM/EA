@@ -46,16 +46,22 @@ ICL EA has developed a simplified CMM adoption Method. It is simplified because 
 - Technology implements products
 - EA guides the organization and manages the whole process
 
-### Evolving feasibly through measurabe cycles
+### Evolving Products feasibly 
 
-- Architect
-- Develop
-- Deploy
-- Repeat
+NOTE: Product by its widest possible definition.  Although in the context of ICL EA, primary focus is on software systems, products and services.
 
-By following the ICL BPT Methodology. Core of the BPT Methodology is [**BPT Meta Loop**](pages/bpt.md).
+- Each step is a measure of AE efficiency
 
+1. Require
+2. Develop
+3. Deploy
+4. Evaluate
+5. Repeat
 
+### By following the ICL BPT Methodology. 
+Core of the BPT Methodology is [BPT Meta Loop](pages/bpt.md).
+
+#### Key actors in the BPT Metodology
 - **Business** declares products
 - **Product** bridges business needs and technical capabilities
 - **Technology** implements products
@@ -63,7 +69,6 @@ By following the ICL BPT Methodology. Core of the BPT Methodology is [**BPT Meta
 
 [BPT Meta Loop](pages/bpt.md) is the agile method for guiding the overall enterprise process: from Architecture to Product delivery, guided by our simplified TOGAF approach.
 
-#### Key actors in the BPT Metodology
 ## 5. [AI is inside](pages/AI.md)
 
 - Our guding principle is to understand why and how we and our customers use AI. 
