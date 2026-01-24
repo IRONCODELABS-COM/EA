@@ -25,43 +25,45 @@ description: Home
 >
 > &nbsp;
 
-## 2. Iron Code Labs Enteprrise Architecture (ICL EA)
+## 2. Iron Code Labs Enteprise Architecture (ICL EA)
 - **ICL EA is a subset of [TOGAF](https://www.opengroup.org/togaf)**
-   - It is taylored, by our EA, for you
+   - It is taylored, by our EA navigator, for your smooth sailing
    - Guding principle: Aligned with the aim of performing small but measurable steps delivering visible benefits
 
-## 3. Climbing the LLM Ladder
+## 3. Capbility Maturity Model (CMM)
 
-**Why?** CMM is a formal foundation for managing and measuring organisation capability and maturity. It is based on TOGAF CMM. For details please [proceed here](pages/cmm.md).
+Why Climbing the CMM Ladder
 
-**How?** ICL has developed a simplified CMM adoption Method. It is simplified because it is aligned to the core idea of fast but feasible delivery under the guidance of ICL EA.
+CMM is a formal foundation for managing and measuring organisation capability and maturity. It is based on TOGAF CMM. For details please [proceed here](pages/cmm.md).
 
-### Evolving feasibly and measurably guided by ICL EA
+ICL EA has developed a simplified CMM adoption Method. It is simplified because it is aligned to the core idea of fast but feasible delivery under the guidance of EA.
 
-- Architect
-- Develop
-- Deploy
-- Repeat
+## 4. How is Feasible Delivery achieved?
+
 
 ### Decoupling Business and Technology
 - Business declares products
 - Technology implements products
 - EA guides the organization and manages the whole process
 
-## 4. How is Feasible Delivery achieved?
+### Evolving feasibly through measurabe cycles
 
-By following the ICL BPT Methodology.
-Core of the BPT Methodology is **BPT Meta Loop**.
+- Architect
+- Develop
+- Deploy
+- Repeat
 
-[BPT Meta Loop](pages/bpt.md) is the agile method for guiding the overall enterprise process: from Architecture to Product delivery, guided by our simplified TOGAF approach.
+By following the ICL BPT Methodology. Core of the BPT Methodology is [**BPT Meta Loop**](pages/bpt.md).
 
-Key actors in the BPT Metdology
 
 - **Business** declares products
 - **Product** bridges business needs and technical capabilities
 - **Technology** implements products
 - **EA** guides the organization and manages the whole process
 
+[BPT Meta Loop](pages/bpt.md) is the agile method for guiding the overall enterprise process: from Architecture to Product delivery, guided by our simplified TOGAF approach.
+
+#### Key actors in the BPT Metodology
 ## 5. [AI is inside](pages/AI.md)
 
 - Our guding principle is to understand why and how we and our customers use AI. 
