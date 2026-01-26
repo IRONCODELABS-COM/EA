@@ -6,15 +6,15 @@ description: Taxonomy is GPS of the Information Space. It is essential “tool�
 
 ![](taxonomy-abstract.png)
 
-- Taxonomy is GPS of the Information Space. It is essential “tool” for locating information (hence the GPS analogy)
-- Simple well defined Taxonomy is applicable for various types of activities, undertaken by various actors in the organization information space.
-- Taxonomy does exist but it is not visible. It is underlying mesh holding the information space together
-
 ## What is a Taxonomy?
 
-- A taxonomy is a hierarchical organizational framework for structuring information across various systems 
-- In commercial enterprised it is used to solve business problems like improving data discovery, knowledge management, and content governance. 
+- A taxonomy is a hierarchical organizational framework for structuring information across various systems
+- In commercial enterprised it is used to solve business problems like improving data discovery, knowledge management, and content governance.
      - It provides a predefined classification system that categorizes technical assets, documentation, and resources from general to specific topics, enabling IT organizations to efficiently organize, locate, and reuse information.
+
+- Taxonomy is GPS of the Information Space. It is essential business "tool" for locating information (hence the GPS analogy)
+- Simple well defined Taxonomy is applicable for various types of business activities, undertaken by various actors in the business information space.
+- Taxonomy does exist but it is not visible. It is underlying mesh holding the ibusiness information space together
 
 ### IT Taxonomies represent structured organizational schemes that can cover various IT domains. 
 
