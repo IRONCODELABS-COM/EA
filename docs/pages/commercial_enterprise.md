@@ -9,4 +9,10 @@ description: Iron Code Labs
 # Comercial Enterprise 
 
 - Widest possible scope of Enterprize existence
-- Organization location in the information space
+- Organization location for the information space navigation
+
+# Enteprise internal organization
+
+Taxonomy provides the structural foundation that characterizes a capable and mature enterprise. 
+
+## [Taxonomy](taxonomy/index.md)

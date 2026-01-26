@@ -38,6 +38,8 @@ CMM is a formal foundation for managing and measuring organisation capability an
 
 ICL EA has developed a simplified CMM adoption Method. It is simplified because it is aligned to the core idea of fast but feasible delivery under the guidance of EA.
 
+Existence of **Taxonomy** and its widepsread usage is a sign of organization higher on the CMM ladder. [Taxonomy](pages/taxonomy/index.md) provides the structural foundation that characterizes a capable and mature enterprise.
+
 ## 4. How is Feasible Delivery achieved?
 
 
