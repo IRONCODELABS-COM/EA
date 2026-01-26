@@ -4,20 +4,13 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  max-width: 1200px;
-}
-
-.content-container {
-  display: flex;
-  gap: 2rem;
+  width: 1200px;
 }
 
 header {
-  width: 20%;
-  flex-shrink: 0;
+  width: 270px;
 }
 
 section {
-  width: 75%;
-  flex-grow: 1;
+  width: 880px;
 }
