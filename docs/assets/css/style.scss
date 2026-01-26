@@ -7,10 +7,12 @@
   max-width: 1200px;
 }
 
-section {
-  width: 75%;
-}
-
 header {
   width: 20%;
+  float: left;
+}
+
+section {
+  width: 75%;
+  float: right;
 }
