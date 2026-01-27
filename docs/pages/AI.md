@@ -51,12 +51,13 @@ DORA is primariy audience is Software Development Organizations. We have repurpo
       </li>
       <li>
         <strong>High-Quality Internal Platforms</strong>
-        <p>We advise you how to build and maintain development infrastructure that just works. Your developers shouldn't fight their tools—they should focus on delivering value.</p>
+        <p>We advise on how to build and maintain development infrastructure that just works. Your developers shouldn't fight their tools—they should focus on delivering value.</p>
         <p>That applies to other projects and teams producing architectural artifacts in the Product development phases.</p>
       </li>
       <li>
         <strong>Clean, Accessible Data</strong>
-        <p>AI is only as good as the data it learns from. We ensure your information is well-organized and accessible so AI can actually help, not hallucinate.</p>
+        <p>AI is only as good as the data it learns from. We ensure information is well-organized and accessible so AI can actually help, not hallucinate.</p>
+        <p>That is about transforming the invisible part of the iceberg</p>
       </li>
       <li>
         <strong>Strong Developer Experience Focus</strong>
