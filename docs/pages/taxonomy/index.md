@@ -58,10 +58,10 @@ Taxonomy “category” together with “capability” siblings is scoping a com
 
 <hr/>
 
-<ol>
+<ul class="tree-view">
   <li><strong>Conceptual</strong><br/>
     <small><em>Focuses on foundational aspects of software, emphasizes goals, data, functions, and technologies, serves as a high-level blueprint, ensures alignment with business objectives, organizes information effectively, delivers desired functionality, utilizes appropriate technologies, and establishes shared understanding among stakeholders.</em></small>
-    <ol>
+    <ul>
       <li>Business<br/>
         <small><em>Defines the business goals and objectives that software is intended to support, focusing on aligning software with organizational strategy and desired outcomes.</em></small></li>
       <li>Information<br/>
@@ -70,11 +70,11 @@ Taxonomy “category” together with “capability” siblings is scoping a com
         <small><em>Describes the specific functions and features of the software, such as user interfaces, data processing, and reporting, defining what the software does and how users interact with it.</em></small></li>
       <li>Technology<br/>
         <small><em>Outlines the underlying technologies used to build and operate the software, such as programming languages, databases, and operating systems, highlighting the technical foundation that supports the software's functionality.</em></small></li>
-    </ol>
+    </ul>
   </li>
   <li><strong>Logical</strong><br/>
     <small><em>Addresses structural and operational aspects of software, provides a detailed view of software functionality, covers data management strategies, includes system integrations, discusses software platform and security measures, bridges the gap between conceptual design and physical implementation, ensures seamless and secure interaction of components, and maintains a robust framework.</em></small>
-    <ol>
+    <ul>
       <li>Data Management<br/>
         <small><em>Addresses how data is stored, accessed, and managed within the software, ensuring efficient handling and organization of data for various operations.</em></small></li>
       <li>Integration<br/>
@@ -83,11 +83,11 @@ Taxonomy “category” together with “capability” siblings is scoping a com
         <small><em>Describes the software environment and infrastructure on which the software runs, providing a stable foundation to host and execute the software.</em></small></li>
       <li>Security<br/>
         <small><em>Defines the measures taken to protect the software and its data from unauthorized access and threats, safeguarding sensitive information and ensuring compliance with standards.</em></small></li>
-    </ol>
+    </ul>
   </li>
   <li><strong>Physical</strong><br/>
     <small><em>Focuses on tangible and technical resources, encompassing hardware, infrastructure, network communication, and storage systems. It ensures a stable, efficient, and scalable environment, addresses performance needs, and enables reliable data processing and connectivity.</em></small>
-    <ol>
+    <ul>
       <li>Compute<br/>
         <small><em>Addresses the hardware resources used to run the software, such as servers and processors, providing the computational power necessary to execute the software.</em></small></li>
       <li>Infrastructure<br/>
@@ -96,11 +96,11 @@ Taxonomy “category” together with “capability” siblings is scoping a com
         <small><em>Focuses on the communication pathways used to connect the software components and users, ensuring connectivity and data exchange between systems and users.</em></small></li>
       <li>Storage<br/>
         <small><em>Defines how data is stored and retrieved, including the types of storage devices used, managing data storage to support both short-term and long-term requirements.</em></small></li>
-    </ol>
+    </ul>
   </li>
   <li><strong>Implementation</strong><br/>
     <small><em>Concerned with processes and practices for delivering, maintaining, and monitoring software, this approach includes deployment, development, monitoring, and operational activities. It ensures effective building and launching of software while sustaining it through continuous improvements. Additionally, it involves performance tracking and routine maintenance to meet evolving requirements.</em></small>
-    <ol>
+    <ul>
       <li>Deployment<br/>
         <small><em>Addresses the process of installing and configuring the software on its target environment, ensuring smooth transition from development to production environments.</em></small></li>
       <li>Development<br/>
@@ -109,9 +109,9 @@ Taxonomy “category” together with “capability” siblings is scoping a com
         <small><em>Focuses on tracking the performance and health of the software after deployment, identifying and resolving issues to maintain optimal performance.</em></small></li>
       <li>Operations<br/>
         <small><em>Addresses the ongoing management and maintenance of the software, including updates, backups, and incident response, keeping the software running reliably and efficiently over time.</em></small></li>
-    </ol>
+    </ul>
   </li>
-</ol>
+</ul>
 
 
 ### Business context 
