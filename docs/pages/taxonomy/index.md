@@ -128,13 +128,13 @@ Taxonomy “category” together with “capability” siblings is scoping a com
 
 > **Note**
 > A capability can be defined as the ability or capacity of an organization, system, or individual to perform a specific task or achieve a desired outcome effectively and efficiently. It encompasses the resources, skills, processes, and technologies that enable the execution of activities to meet strategic objectives.
-> {.note}
+{: .note}
 
 ---
 
 > **Tip**
 > Taxonomy in ASCII chars for your perusal in the documentation or code
-{:tip}
+{: .tip}
 
 ```
 ├── Conceptual
