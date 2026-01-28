@@ -35,7 +35,7 @@ IT Architecture Delivers Software. In a series of planned multidisciplinary acti
 
 As any other complex system, software is planned and delivered in a sequence of steps From higher to lower levels on abstraction
 
-Our 4 categoies are progressing through levels of abstractions. We simplify the abstractions sequences in by manadating 4 levels:
+Our 4 categories are actuially progression through levels of abstractions. From the most abstract to the least abstract level. We are manadating 4 levels:
 
 > `Conceptual → Logical → Physical → Implementation`
 >
@@ -126,7 +126,9 @@ Taxonomy “category” together with “capability” siblings is scoping a com
 
 ### Business context 
 
+> **Note**
 > A capability can be defined as the ability or capacity of an organization, system, or individual to perform a specific task or achieve a desired outcome effectively and efficiently. It encompasses the resources, skills, processes, and technologies that enable the execution of activities to meet strategic objectives.
+> {.note}
 
 ---
 
