@@ -56,7 +56,9 @@ Capabilities added, are turning the four top level categories into full software
 Taxonomy “category” together with “capability” siblings is scoping a complete definition for a single category.
 
 
-<hr/>
+(hint: bellow is a collapsible tree)
+
+---
 
 <div class="tree-view-collapsible">
   <details open>
@@ -120,14 +122,17 @@ Taxonomy “category” together with “capability” siblings is scoping a com
   </details>
 </div>
 
+---
 
 ### Business context 
 
-A capability can be defined as the ability or capacity of an organization, system, or individual to perform a specific task or achieve a desired outcome effectively and efficiently. It encompasses the resources, skills, processes, and technologies that enable the execution of activities to meet strategic objectives.
+> A capability can be defined as the ability or capacity of an organization, system, or individual to perform a specific task or achieve a desired outcome effectively and efficiently. It encompasses the resources, skills, processes, and technologies that enable the execution of activities to meet strategic objectives.
 
 ---
 
-Taxonomy in ASCII chars for your perusal in the documentation or code
+> **Tip**
+> Taxonomy in ASCII chars for your perusal in the documentation or code
+{:tip}
 
 ```
 ├── Conceptual
@@ -151,3 +156,6 @@ Taxonomy in ASCII chars for your perusal in the documentation or code
     ├── Monitoring
     └── Operations
 ```
+
+---
+
