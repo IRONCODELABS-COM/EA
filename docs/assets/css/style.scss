@@ -54,3 +54,79 @@ section {
     color: #333;
   }
 }
+
+.tree-view-collapsible {
+  list-style: none;
+  padding-left: 0;
+
+  details {
+    margin: 0.25em 0;
+
+    summary {
+      cursor: pointer;
+      position: relative;
+      padding: 0.4em 0 0.4em 1.8em;
+      list-style: none;
+
+      &::-webkit-details-marker {
+        display: none;
+      }
+
+      &::marker {
+        display: none;
+      }
+
+      &::before {
+        font-family: "Font Awesome 6 Free";
+        font-weight: 900;
+        content: "\f07b"; // closed folder
+        position: absolute;
+        left: 0;
+        top: 0.4em;
+        color: #555;
+        font-size: 1em;
+        transition: transform 0.2s ease;
+      }
+
+      &:hover {
+        color: #0366d6;
+      }
+    }
+
+    &[open] > summary::before {
+      content: "\f07c"; // open folder
+      color: #e6a117;
+    }
+
+    > .tree-content {
+      padding-left: 1.5em;
+      margin: 0.25em 0;
+
+      li {
+        position: relative;
+        padding: 0.4em 0 0.4em 1.8em;
+        list-style: none;
+
+        &::before {
+          font-family: "Font Awesome 6 Free";
+          font-weight: 400;
+          content: "\f15b"; // file icon
+          position: absolute;
+          left: 0;
+          top: 0.4em;
+          color: #666;
+          font-size: 1em;
+        }
+      }
+    }
+  }
+
+  // Nested details (subfolders)
+  details details {
+    margin-left: 1.5em;
+  }
+
+  strong {
+    color: #333;
+  }
+}
