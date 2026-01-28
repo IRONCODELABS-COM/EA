@@ -124,14 +124,21 @@ Taxonomy “category” together with “capability” siblings is scoping a com
 
 ---
 
-### Business context 
+## Organization context 
 
 > **Note**
-> A capability can be defined as the ability or capacity of an organization, system, or individual to perform a specific task or achieve a desired outcome effectively and efficiently. It encompasses the resources, skills, processes, and technologies that enable the execution of activities to meet strategic objectives.
-{: .note}
+> A capability is the ability or capacity of an organization, system, or individual to perform a specific task or achieve a desired outcome effectively and efficiently. It encompasses the resources, skills, processes, and technologies that enable the execution of activities to meet strategic objectives.
+{: .important}
 
----
+> **Important**
+> Capability is the KPI of the organization
+{: .important}
 
+<details> 
+<summary>
+<b>Appendix</b>
+</summary>
+<p>
 > **Tip**
 > Taxonomy in ASCII chars for your perusal in the documentation or code
 {: .tip}
@@ -158,6 +165,7 @@ Taxonomy “category” together with “capability” siblings is scoping a com
     ├── Monitoring
     └── Operations
 ```
-
+<p>
+</details>
 ---
 
