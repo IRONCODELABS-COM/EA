@@ -45,20 +45,23 @@ As Organization IT Landscape Classification, Taxonomy is essential for catalogui
 
 As Architecture classification logic, taxonomy hierarchy is essential for software product development management. As it describes the information content of deliverables each stage should produce
 
-## The whole of the Taxonomy hierarchy
+## The Taxonomy hierarchy
 
-With Categories  and Capabilities (possible synonim: the sorting logic)
+> **NOTE**
+> Shared simple Taxonomy is most important communication asset in your organization
+{: .note}
 
-**Taxonomy is a  hierarchical structure. First level of the hierarchy is called “Categories”, second level is called “Capabilities”**
-
-Capabilities added, are turning the four top level categories into full software taxonomy.
-
-Taxonomy “category” together with “capability” siblings is scoping a complete definition for a single category.
-
+- Use this is the simple primary source of truth, on taxonomy, in your organization 
+  - Use those terms as common vocabulary
+  - it is extremely important to share simple common vocabulary
+- **Taxonomy is a  hierarchical structure. First level of the hierarchy is called “Categories”, second level is called “Capabilities”**
+- Capabilities added, are turning the four top level categories into full software taxonomy.
+- Taxonomy “category” together with ts four “capability” siblings is a complete definition for a single category.
+- this Taxonomy is applicable to wide spectra of organization activities
+  - and roles performing those activities
 
 (hint: bellow is a collapsible tree)
 
----
 
 <div class="tree-view-collapsible">
   <details open>
