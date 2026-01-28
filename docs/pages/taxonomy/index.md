@@ -134,15 +134,13 @@ Taxonomy “category” together with “capability” siblings is scoping a com
 > Capability is the KPI of the organization
 {: .important}
 
-<details> 
-<summary>
-<b>Appendix</b>
-</summary>
-<p>
-> **Tip**
-> Taxonomy in ASCII chars for your perusal in the documentation or code
-{: .tip}
+## Appendix 
 
+> &nbsp;
+> 
+> Taxonomy in ASCII chars for your perusal in the documentation or code
+> 
+> &nbsp;
 ```
 ├── Conceptual
 │   ├── Business
@@ -165,7 +163,6 @@ Taxonomy “category” together with “capability” siblings is scoping a com
     ├── Monitoring
     └── Operations
 ```
-<p>
-</details>
+
 ---
 
