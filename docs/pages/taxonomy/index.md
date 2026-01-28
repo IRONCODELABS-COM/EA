@@ -141,7 +141,9 @@ Taxonomy “category” together with “capability” siblings is scoping a com
 > Taxonomy in ASCII chars for your perusal in the documentation or code
 > 
 > &nbsp;
-```
+
+
+```bash
 ├── Conceptual
 │   ├── Business
 │   ├── Information
