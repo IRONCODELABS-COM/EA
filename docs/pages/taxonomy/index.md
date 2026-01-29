@@ -23,7 +23,7 @@ Through four key IT architectural categories
 1. **concepts** (foundational principles and business requirements),
 1. **logical** architecture (system designs and relationships),
 1. **physical** architecture (infrastructure and deployment models), and
-1. **implementation** architecture (software internal technologies and **deployment**).
+1. **implementation** architecture ( internal software technologies and **deployment**).
 
 This top level, simple progression supports better decision-making and operational efficiency by creating intuitive pathways for information access, while helping organizations maintain consistency in how technical knowledge is classified, shared, and leveraged across different teams and systems.
 
