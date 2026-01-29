@@ -1,19 +1,13 @@
----
-layout: default
-title: Business Process Technology 
-description: Meta Loop (Loop of loops)
----
+# Business Process Technology (BPT) Meta Loop
 
 ![](assets/bpt-meta-loop.png)
 
-
 This diagram represents **Enterprise Architecture role as the governing meta-layer** that orchestrates the Business-Product-Technology relationship through continuous cycles (loops).
 
->[!NOTE] 
 > **Key strengths:**
 > - Product is the natural alignment point between Business and Technology
 > - Architecture operates "above" the process, not within it
-? - [CMM](https://dbj.org/cmm/) prerequisite filters out organizations lacking foundational maturity
+> - [CMM](cmm.md) prerequisite filters out organizations lacking foundational maturity
 > - Continuous loop maps to operational rhythm, not rigid phase gates
 
 **Architecture's role:**
@@ -30,6 +24,7 @@ This diagram represents **Enterprise Architecture role as the governing meta-lay
 
 **In TOGAF terms:** This is Architecture Governance as a productized execution model, not replacing TOGAF ADM but providing the operational CMM based framework ADM governs.
 
->[!WARNING] **Bottom line:** Product unifies; Loop validates.
+> **Bottom line:** Product unifies; Loop validates.
 
+---
 &copy; dbj@dbj.org
