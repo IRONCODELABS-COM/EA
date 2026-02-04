@@ -1,4 +1,6 @@
-# Iron Code Labs -- Enterprise Architecture
+# Iron Code Labs 
+
+## Enterprise Architecture based Methodology
 
 - [`docs/`](docs/) -- Public material (GH Pages)
 - [`vault/`](vault/) -- Internal methodology material
