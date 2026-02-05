@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.infoq.com)",
+      "Bash(gh pr list:*)"
+    ]
+  }
+}

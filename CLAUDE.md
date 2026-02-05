@@ -14,3 +14,8 @@ When writing or organizing architectural content, place each concern at the corr
 4. **Software Architecture** — code structure, layering, dependency rules (rarely the focus here)
 
 Architecture and engineering are distinct disciplines. Architecture defines *what* the system is and *how it is structured*; engineering defines *how it is built, operated, and kept healthy*. Keep them clearly separated in all documents.
+
+## Output
+
+- be succinct
+- pay attention to kramdown vs markdown differences
