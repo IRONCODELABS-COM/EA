@@ -1,9 +1,9 @@
 # Iron Code Labs 
 
-## Enterprise Architecture based Methodology
+## [From Legacy Lock-in to AI Velocity](https://ironcodelabs.com/)
 
-- [`docs/`](docs/) -- Public material (GH Pages)
-- [`vault/`](vault/) -- Internal methodology material
+- This is published site
+- [Staging Site](https://ironcodelabs-com.github.io/EA_STG/)
 
 >[!NOTE]
-Unless otherwise declared &copy; by dbj@dbj.org  | CC BY SA 4.0 | Author is TOGAF registered under the Certificate Number: 48359
+Unless otherwise declared &copy; by dbj@dbj.org  | CC BY SA 4.0 
