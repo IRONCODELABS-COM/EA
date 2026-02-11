@@ -1,64 +1,71 @@
-# Architecture Taxonomy
+---
+layout: default
+title: Taxonomy
+description: Key organization communication aid
+---
+# What is a Taxonomy?
 
-> Taxonomy is GPS of the Information Space. It is essential "tool" for locating information (hence the GPS analogy).
+>**Important**
+>
+> Taxonomy is Hierachycal structure describing the Organization Inormation Space
+> 
+> It is Organization Positioning System (OPS) of the Information Space. 
+> 
+> It is essential aid for communication, smooth development and quick information location.
+{: important}
 
-![](assets/taxonomy-abstract.png)
+![alt text](taxonomy_assets/taxonomy-role-bw.png)
 
-## What is a Taxonomy?
 
 - A taxonomy is a hierarchical organizational framework for structuring information across various systems
 - In commercial enterprises it is used to solve business problems like improving data discovery, knowledge management, and content governance.
   - It provides a predefined classification system that categorizes technical assets, documentation, and resources from general to specific topics, enabling IT organizations to efficiently organize, locate, and reuse information.
 
-- Taxonomy is GPS of the Information Space. It is essential business "tool" for locating information (hence the GPS analogy)
-- Simple well defined Taxonomy is applicable for various types of business activities, undertaken by various actors in the business information space.
-- Taxonomy does exist but it is not visible. It is underlying mesh holding the business information space together
+- Taxonomy is Location Positioning System of the Information Space. It is essential business "tool" for locating information 
+- Simple well defined Taxonomy is applicable for various types of business activities, undertaken by various actors in the organization information space.
+- Taxonomy is underlying mesh holding the organization information space together
 
-### IT Taxonomies represent structured organizational schemes that can cover various IT domains.
+### IT Taxonomy
 
-Through four key IT architectural categories:
+IT Architecture Taxonomies represent structured organizational communication aid that cover various IT domains. Typicaly inside an organization.
 
-1. **Concepts** (foundational principles and business requirements)
-2. **Logical** architecture (system designs and relationships)
-3. **Physical** architecture (infrastructure and deployment models)
-4. **Implementation** architecture (internal software technologies and deployment)
-
-This top level, simple progression supports better decision-making and operational efficiency by creating intuitive pathways for information access, while helping organizations maintain consistency in how technical knowledge is classified, shared, and leveraged across different teams and systems.
-
-### Software Taxonomy
-
-Please notice the overarching technology neutral terminology. Taxonomy as a concept is applicable across the various disciplines. Anything that can be defined and stored following the common logic of classification aka "taxonomy". Of course here we are primarily concerned with software in particular and IT in general.
-
-IT Architecture Delivers Software. In a series of planned multidisciplinary activities, executed by a team of Actors organized in four categories naming the roles.
-
-As any other complex system, software is planned and delivered in a sequence of steps from higher to lower levels of abstraction.
-
-Our 4 categories are actually progression through levels of abstractions. From the most abstract to the least abstract level. We are mandating 4 levels:
-
-> `Conceptual → Logical → Physical → Implementation`
 >
-> "From idea to the product"
+> Top level is four key categories ordered by level of abstractions
+>
+> 1. **Concepts** (foundational principles and business requirements)
+> 2. **Logical** architecture (system designs and relationships)
+> 3. **Physical** architecture (infrastructure and deployment models)
+> 4. **Implementation** architecture (internal software technologies and deployment)
 
-As Organization IT Landscape Classification, Taxonomy is essential for cataloguing and ordering. This is essential activity before any kind of feasible IT management can start.
+This top level, simple progression supports better decision-making and operational efficiency by creating intuitive pathways for information access, while helping organizations maintain consistency in how technical knowledge is classified, shared, and leveraged across different teams and systems. 
 
-As Architecture classification logic, taxonomy hierarchy is essential for software product development management. As it describes the information content of deliverables each stage should produce.
+
+>**Note**
+>
+> Please notice the overarching, technology neutral terminology. Taxonomy as a concept is applicable across the various disciplines. Anything that can be defined and stored following the common logic of classification aka "taxonomy". Evolution taxonomy hierarchy being the most widely known example. Of course here we are primarily concerned with software in particular and IT in general.
+{: note}
 
 ## The Taxonomy Hierarchy
 
-> **NOTE:** Shared simple Taxonomy is most important communication asset in your organization
+- As Organization IT Landscape Classification, Taxonomy is essential for cataloguing, ordering and succinct communiction. 
+  - This is essential activity before any kind of feasible IT management can start.
+- As an organization architecture classification logic, taxonomy hierarchy is essential for software product development management. 
+  - As it describes the information content of deliverables each stage should produce.
+- Use the following as the simple primary source of truth on taxonomy in the organization
+  - These terms are common vocabulary
+  - It is crucial to share simple common vocabulary, company wide
+  - That is a key aid for business/technology communications
 
-- Use this as the simple primary source of truth on taxonomy in your organization
-  - Use those terms as common vocabulary
-  - It is extremely important to share simple common vocabulary
-- **Taxonomy is a hierarchical structure. First level of the hierarchy is called "Categories", second level is called "Capabilities"**
-- Capabilities added are turning the four top level categories into full software taxonomy.
+## Structure
+<strong>Taxonomy is a hierarchical structure. First level of the hierarchy we call "Categories", second level "Capabilities"</strong>
+
+- Capabilities wheb added are turning the simple list of four top level categories into full software taxonomy.
 - Taxonomy "category" together with its four "capability" siblings is a complete definition for a single category.
-- This Taxonomy is applicable to wide spectra of organization activities
-  - and roles performing those activities
-
+- Taxonomy defined in here is applicable to wide spectra of organization activities and roles performing those activities
+  
 ---
 
-<details open>
+<details>
 <summary><strong>Conceptual</strong></summary>
 
 *Focuses on foundational aspects of software, emphasizes goals, data, functions, and technologies, serves as a high-level blueprint, ensures alignment with business objectives, organizes information effectively, delivers desired functionality, utilizes appropriate technologies, and establishes shared understanding among stakeholders.*
@@ -108,15 +115,26 @@ As Architecture classification logic, taxonomy hierarchy is essential for softwa
 
 ---
 
-## Organization Context
+## Taxonomy Capability is the key KPI of an organization
 
-> **Note:** A capability is the ability or capacity of an organization, system, or individual to perform a specific task or achieve a desired outcome effectively and efficiently. It encompasses the resources, skills, processes, and technologies that enable the execution of activities to meet strategic objectives.
+#### Each Role is played by group of Actors, having the ability to manage various organization Capabilities
 
-> **Important:** Capability is the KPI of the organization
+*Example: Ability of an organization to deploy Business Roles to communicate the "Business" capability of the "Conceptual" level, in order to architect it develop it and maintain it.*
+
+
+> **Note:** 
+> 
+> A capability is the ability or capacity of an organization, system, or individual to perform a specific task or achieve a desired outcome effectively and efficiently. It encompasses the resources, skills, processes, and technologies that enable the execution of activities to meet strategic objectives.
+{: note}
+
+> **Important:** 
+> 
+> Capabilities are defined by the single common Taxonomy of the  organization
+{: important}
 
 ## Appendix
 
-> Taxonomy in ASCII chars for your perusal in the documentation or code
+> Copy paste Taxonomy using ASCII char. For perusal in the documentation or code in the organization
 
 ```
 ├── Conceptual

@@ -4,80 +4,70 @@ title: Iron Code Labs Enterprise Architecture (ICLEA)
 description: Home
 ---
 
-## What is a Commercial Enterpise?
-
-- Business entity aligned to external and internal forces. Best describd with a diagram.
-   - [Commercial enterprise](pages/commercial_enterprise.md) in the global geo-political continuum.
+*Back to [IRONCODELABS.COM](https://ironcodelabs.com)*
 
 
-## 1. What is Enterprise Architecture?
+### This Method exists because of AI
 
-> &nbsp;
+#### [ICL AI Guidance](ai.md)
+
+<!-- Each ICL Client Team Member has a role defined by the ICL Method and can use the LLM to help create the results. But here is the key:
+
+**Accountability stays with the person, not the AI tool**
+
+- ICL guiding principle is to understand why, how and were, our customers use the AI tool of choice
+- If things go wrong we do not blame it on AI
+- AI is a marketing term — LLM is engineering
+- We do not blame it on the LLM -->
+
+# Iron Code Labs Method
+
+<!-- ![](assets/warwick-journey-image.png) -->
+
+<!-- ![](assets/icl_dbj_method.png) -->
+
+![](assets/icl_method_bridge_bw.png)
+
+<!-- The Iron Code Labs (ICL) method is composed of two stages: **On-boarding** and **The Loop**. -->
+#### The Iron Code Labs (ICL) method is a bridge of two arches: **On-boarding** and **The Loop**.
+
+>**Important**
 >
-> Primary role of the EA
->
-> **Enterprise Architecture aligns business and technology**
->
-> &nbsp;
-> ![](assets/icl_ea_clogs.png)
->
-> [TOGAF](https://www.opengroup.org/togaf) is a global standard for management of Enterprise Architecture. Aim is very simple: to improve the business eficiency.
->
-> &nbsp;
+> ICL enables clients with [Enterprise Architecture](enterprise_architecture.md) as the overarching framework supporting and driving the whole process. ICL EA is based on solid [TOGAF](https://www.opengroup.org/togaf) foundations.
+{: important}
 
-## 2. Iron Code Labs Enteprise Architecture (ICL EA)
-- **ICL EA is a subset of [TOGAF](https://www.opengroup.org/togaf)**
-   - It is taylored, by our EA navigator, for your smooth sailing
-   - Guding principle: Aligned with the aim of performing small but measurable steps delivering visible benefits
+## Stage 1 — On-boarding
 
-## 3. Capbility Maturity Model (CMM)
+In this step ICL prepares clients for EA architecture-led delivery by putting them on the firm [capability maturity foundations](cmm.md#diagram).
 
-Why Climbing the CMM Ladder
+### A — Preparing for the [CMM Levels](cmm.md#levels-and-characteristics)
 
-CMM is a formal foundation for managing and measuring organisation capability and maturity. It is based on TOGAF CMM. For details please [proceed here](pages/cmm.md).
+ICL EA leads the assessment of the client's current organisational maturity levels using the ACMM Levels [M0–M5](cmm.md#levels-and-characteristics) nomenclature. In this step ICL EA:
 
-ICL EA has developed a simplified CMM adoption Method. It is simplified because it is aligned to the core idea of fast but feasible delivery under the guidance of EA.
+- Introduces key communications aid: common vocabulary defined as Technology Landscape Classification aka [Taxonomy](taxonomy.md)
+- Identifies capability gaps using the ACMM scorecard
+- Sets a realistic target level (typically M2)
 
-Existence of **Taxonomy** and its widepsread usage is a sign of organization higher on the CMM ladder. [Taxonomy](pages/taxonomy/index.md) provides the structural foundation that characterizes a capable and mature enterprise.
+**Deliverables:** ACMM baseline assessment + EA-guided improvement roadmap
 
-## 4. How is Feasible Delivery achieved?
+### B — Raising the Organisation to CMM Level M2
 
+ICL EA defines and documents architecture processes — moving the organisation from ad-hoc (M1) to defined (M2).
 
-### Decoupling Business and Technology
-- Business declares products
-- Technology implements products
-- EA guides the organization and manages the whole process
+- Establishes governance structures and secures senior management involvement
+- Introduces architecture-driven communication practices across the organisation
+- Introduces the common, simple but powerful [Taxonomy](taxonomy.md) as a key organisational asset
 
-### Evolving Products feasibly 
+**Deliverable:** organisation operating at CMM level M2 with EA-documented processes
 
-NOTE: Product by its widest possible definition.  Although in the context of ICL EA, primary focus is on software systems, products and services.
+For full detail on the maturity model see [CMM](cmm.md).
 
-- Each step is a measure of AE efficiency
+## Stage 2 — [Business, Product, Technology](bpt.md) Loop
 
-1. Require
-2. Develop
-3. Deploy
-4. Evaluate
-5. Repeat
+**Continuous operational cycle, company-wide**
 
-### By following the ICL BPT Methodology. 
-Core of the BPT Methodology is [BPT Meta Loop](pages/bpt.md).
+Once on-boarded, the client organisation enters the **BPT Loop** — a continuous cycle of three clearly decoupled parts: **Business**, **Product** and **Technology**. This is Iron Code Labs' delivery-focused operational methodology for CMM-ready organisations. EA is the **meta-layer** — it does not participate in the loop, it governs it.
 
-#### Key actors in the BPT Metodology
-- **Business** declares products
-- **Product** bridges business needs and technical capabilities
-- **Technology** implements products
-- **EA** guides the organization and manages the whole process
-
-[BPT Meta Loop](pages/bpt.md) is the agile method for guiding the overall enterprise process: from Architecture to Product delivery, guided by our simplified TOGAF approach.
-
-## 5. [AI is inside](pages/AI.md)
-
-- Our guding principle is to understand why and how we and our customers use AI. 
-- We are not used by AI. 
-- If things go wrong we do not blame it on AI. 
-- AI is marketing term. LLM is enginering. 
-- We do not blame it on the tool.
 
 ---
 Subject to change, material in this site is &copy; dbj@dbj.org , CC BY SA 4.0
