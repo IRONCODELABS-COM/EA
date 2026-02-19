@@ -7,7 +7,9 @@ description: Home
 *Back to [IRONCODELABS.COM](https://ironcodelabs.com)*
 
 
-### This Method exists because of AI
+>**Note**
+>This Method exists to facilitate safe journey of an enterprise to AI enablement
+{: note}
 
 #### [ICL AI Guidance](ai.md)
 
@@ -36,7 +38,7 @@ description: Home
 > ICL enables clients with [Enterprise Architecture](enterprise_architecture.md) as the overarching framework supporting and driving the whole process. ICL EA is based on solid [TOGAF](https://www.opengroup.org/togaf) foundations.
 {: important}
 
-## Stage 1 — On-boarding
+## Stage (Arch) 1 — On-boarding
 
 In this step ICL prepares clients for EA architecture-led delivery by putting them on the firm [capability maturity foundations](cmm.md#diagram).
 
@@ -62,7 +64,7 @@ ICL EA defines and documents architecture processes — moving the organisation 
 
 For full detail on the maturity model see [CMM](cmm.md).
 
-## Stage 2 — [Business, Product, Technology](bpt.md) Loop
+## Stage (Arch) 2 — [Business, Product, Technology](bpt.md) Loop
 
 **Continuous operational cycle, company-wide**
 
