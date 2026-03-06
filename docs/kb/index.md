@@ -6,7 +6,7 @@ description: Iron Code Labs EA knowledge base — structured reference material 
 
 # Knowledge Base
 
-Structured reference material on enterprise architecture topics. Each section is a self-contained series that can be read independently.
+Structured reference material on enterprise architecture topics. Each section is a self-contained and can be read independently.
 
 ---
 
