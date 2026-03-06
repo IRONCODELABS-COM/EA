@@ -1,7 +1,7 @@
 
 # Legacy Knowledge LLM Integration Architecture
 
-![LLM Integration Architecture](legacy-knowledge-to=llm-to-new-system.drawio.png)
+![LLM Integration Architecture](legacy-knowledge-ai-integration.png)
 
 
 ## Pattern: New System → Agents → MCP Servers → Legacy Knowledge
