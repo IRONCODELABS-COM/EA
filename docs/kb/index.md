@@ -26,11 +26,11 @@ Enterprise architecture governance framework for introducing Large Language Mode
 
 ---
 
-## 3 [ICL CMM](icl-cmm/icl-cmm.md)
+## 3 [TOGAF CMM](togaf-cmm/togaf-cmm.md)
 
-The Iron Code Labs Capability Maturity Model — a mirror of the TOGAF CMM applied to the whole organization across five structural elements: Governance, Skilled Resource Pool, Projects/Portfolios, Business Operations, and Architecture Repository. Covers maturity levels L0–L5, characteristics per element, a reference table, and the scoring rule. L3 across all five elements is the entry ticket to the ICL BPT methodology and the precondition for running the ICL ADM.
+The TOGAF Architecture Capability Maturity Model (ACMM) — the EA-practice-focused foundation from which the ICL CMM is derived. Covers the six maturity levels (M0–M5), the nine ACMM characteristics, the scorecard structure, and the M3 prerequisite for running the ICL ADM.
 
-> The ICL CMM is not a fork of TOGAF CMM — it is the same model applied to the whole organization, not just the EA practice.
+> The TOGAF CMM measures the EA practice. The [ICL CMM](../cmm.md) measures the whole organization.
 
 ---
 
@@ -55,3 +55,11 @@ Enterprise architecture lens on AI regulatory compliance. Covers what the EU AI 
 Integration architecture for connecting new AI-enabled systems to existing enterprise knowledge. Covers the New System → Agents → MCP Servers → Legacy Knowledge pattern, the role of LLMs as a peer input (not gateway), MCP Servers as the anti-corruption layer across heterogeneous legacy data sources, and the decoupling principles that keep legacy knowledge authoritative in place.
 
 > The tool contract is the only interface that matters — the Agent never knows what sits behind the MCP Server.
+
+---
+
+## 7 [ANI Is Not AGI](ani_is_not_agi/ani_is_not_agi.md)
+
+Why AGI is an unreachable milestone — and why the distinction matters for the business restarting the AI strategy. Covers the ANI/AGI feature gap, the four strongest arguments against AGI ever existing (stochastic parrots, the Chinese Room, embodiment, the scaling wall), and the governance implication: Enterprise Architecture evaluates capability, not marketing position on a notional AGI scale.
+
+> ANI is real, deployable, and governable. AGI is a philosophical milestone whose reachability is genuinely in dispute.
