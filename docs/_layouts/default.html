@@ -38,6 +38,19 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+
+        <nav class="site-nav">
+          <ul>
+            <li><a href="{{ '/index' | relative_url }}">Method</a></li>
+            <li><a href="{{ '/enterprise_architecture' | relative_url }}">Enterprise Architecture</a></li>
+            <li><a href="{{ '/taxonomy' | relative_url }}">Taxonomy</a></li>
+            <li><a href="{{ '/taxonomy_core' | relative_url }}">Taxonomy Core</a></li>
+            <li><a href="{{ '/bpt' | relative_url }}">BPT</a></li>
+            <li><a href="{{ '/cmm' | relative_url }}">CMM</a></li>
+            <li><a href="{{ '/ai' | relative_url }}">AI</a></li>
+            <li><a href="{{ '/kb/index' | relative_url }}">Knowledge Base</a></li>
+          </ul>
+        </nav>
       </header>
       <section>
 
@@ -45,10 +58,6 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

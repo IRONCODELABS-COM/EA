@@ -26,6 +26,12 @@ header {
   }
 }
 
+footer {
+  position: static;
+  width: 270px;
+  margin-top: 1em;
+}
+
 section {
   width: calc(100% - 300px);
   max-width: 880px;
@@ -44,6 +50,57 @@ section {
 
   header {
     padding-bottom: 1em;
+  }
+}
+
+.site-nav {
+  margin-top: 1em;
+  font-size: 0.85em;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    margin: 0.25em 0;
+  }
+
+  a {
+    color: #555;
+    text-decoration: none;
+
+    &:hover {
+      color: #0366d6;
+    }
+  }
+
+  details {
+    summary {
+      cursor: pointer;
+      color: #555;
+      list-style: none;
+
+      &::-webkit-details-marker { display: none; }
+      &::marker { display: none; }
+
+      &::before {
+        content: "▶ ";
+        font-size: 0.7em;
+      }
+
+      &:hover { color: #0366d6; }
+    }
+
+    &[open] > summary::before {
+      content: "▼ ";
+    }
+
+    ul {
+      padding-left: 1em;
+      margin-top: 0.25em;
+    }
   }
 }
 
