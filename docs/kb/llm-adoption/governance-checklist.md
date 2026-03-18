@@ -4,6 +4,8 @@ title: EA Governance Checklist — LLM Adoption
 description: Binary checklist for Architecture Decision Record validation before LLM approval
 ---
 
+[← Knowledge Base](../index.md)
+
 # EA Governance Checklist — LLM Adoption
 
 Use this checklist before approving any LLM introduction. It maps to the [4-Level Decision Model](decision-model.md) and follows the [ICL Enterprise Taxonomy](https://ea.ironcodelabs.com/taxonomy.html) levels: Conceptual, Logical, Physical, Implementation. Every item must be answered "yes" for approval.
@@ -83,9 +85,13 @@ Any failed gate = architectural violation. Redesign before resubmitting.
 
 *Reference: [Fred Brooks — Second-System Effect](https://en.wikipedia.org/wiki/Second-system_effect)*
 
-<!-- Standard Footer -->
-<div style="clear: both;"></div>
+---
+
 <div style="float: center; margin: 1em; text-align: center;">
-<img src="../../assets/icl_logo.png" width="64px" /><br/>
-<a href="https://ironcodelabs.ai">&copy; Iron Code Labs Ltd</a>
+<!-- KB footer -->
+<br/>
+EA Navigates &trade;
+<hr/>
+Subject to change&nbsp;&copy; dbj@dbj.org , CC BY SA 4.0
 </div>
+<div style="clear: both;"></div>

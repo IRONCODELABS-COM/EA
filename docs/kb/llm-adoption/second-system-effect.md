@@ -4,6 +4,8 @@ title: LLM and the Second-System Effect
 description: Why unconstrained LLM adoption leads to over-engineered systems
 ---
 
+[← Knowledge Base](../index.md)
+
 # LLM can lead to the Second-System Effect
 
 The classic **[Second-System Effect](https://en.wikipedia.org/wiki/Second-system_effect)**. Concept was articulated by Fred Brooks in *The Mythical Man-Month* (1975):
@@ -151,9 +153,13 @@ The mistake is not using LLMs. The mistake is:
 
 *Reference: [Fred Brooks — Second-System Effect](https://en.wikipedia.org/wiki/Second-system_effect)*
 
-<!-- Standard Footer -->
-<div style="clear: both;"></div>
+---
+
 <div style="float: center; margin: 1em; text-align: center;">
-<img src="../../assets/icl_logo.png" width="64px" /><br/>
-<a href="https://ironcodelabs.ai">&copy; Iron Code Labs Ltd</a>
+<!-- KB footer -->
+<br/>
+EA Navigates &trade;
+<hr/>
+Subject to change&nbsp;&copy; dbj@dbj.org , CC BY SA 4.0
 </div>
+<div style="clear: both;"></div>

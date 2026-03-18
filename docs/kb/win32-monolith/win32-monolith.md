@@ -4,6 +4,8 @@ title: Win32 Monolith Modernization
 description: Enterprise architecture approach for modernizing a legacy Win32 monolith with a web front end — Strangler Fig pattern, ACL, MCP Server, and AI integration.
 ---
 
+[← Knowledge Base](../index.md)
+
 # Legacy Monolith WIN32 desktop GUI; System Modernization.
 
 > * Web front end to be added
@@ -207,9 +209,13 @@ The guiding principle: **the monolith shrinks, it does not get rewritten in one 
 
 **QUESTION**: What is the Win32 monolith's existing IPC surface, if any?
 
-<!-- Standard Footer -->
-<div style="clear: both;"></div>
+---
+
 <div style="float: center; margin: 1em; text-align: center;">
-<img src="../../assets/icl_logo.png" width="64px" /><br/>
-<a href="https://ironcodelabs.ai">&copy; Iron Code Labs Ltd</a>
+<!-- KB footer -->
+<br/>
+EA Navigates &trade;
+<hr/>
+Subject to change&nbsp;&copy; dbj@dbj.org , CC BY SA 4.0
 </div>
+<div style="clear: both;"></div>

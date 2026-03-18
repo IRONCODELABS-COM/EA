@@ -4,6 +4,8 @@ title: ICL ADM
 description: A simplified ADM cycle for the ICL Method — how governance steps map across the full taxonomy
 ---
 
+[← Knowledge Base](../index.md)
+
 # ICL ADM
 
 The ICL ADM is a simplified version of the [TOGAF ADM](https://en.wikipedia.org/wiki/The_Open_Group_Architecture_Framework) adapted for use within the ICL Method. It retains the wheel metaphor — a repeating cycle of governed architecture work — while reducing the step count to what a real organization can sustain without a dedicated architecture team.
@@ -85,9 +87,13 @@ This framework applies to any ICL ADM wheel. Examples:
 
 Each wheel runs the same five-step structure. Each wheel's artifacts are specific to its topic.
 
-<!-- Standard Footer -->
-<div style="clear: both;"></div>
+---
+
 <div style="float: center; margin: 1em; text-align: center;">
-<img src="../../assets/icl_logo.png" width="64px" /><br/>
-<a href="https://ironcodelabs.ai">&copy; Iron Code Labs Ltd</a>
+<!-- KB footer -->
+<br/>
+EA Navigates &trade;
+<hr/>
+Subject to change&nbsp;&copy; dbj@dbj.org , CC BY SA 4.0
 </div>
+<div style="clear: both;"></div>

@@ -4,6 +4,8 @@ title: DORA AI Capabilities Model
 description: ICL usage of the DORA AI Capabilities Model as AI guidance framework for software development organizations.
 ---
 
+[← Knowledge Base](../index.md)
+
 ##  DORA AI Capabilities Model
 
 DORA is primariy audience is Software Development Organizations. We have repurposed its core to be used as part of ICL AI usage guidance.
@@ -77,9 +79,13 @@ Software development teams are classified as Elite, High, Medium, or Low perform
 
 **Google Cloud** is the primary company behind DORA.
 
-<!-- Standard Footer -->
-<div style="clear: both;"></div>
+---
+
 <div style="float: center; margin: 1em; text-align: center;">
-<img src="../../assets/icl_logo.png" width="64px" /><br/>
-<a href="https://ironcodelabs.ai">&copy; Iron Code Labs Ltd</a>
+<!-- KB footer -->
+<br/>
+EA Navigates &trade;
+<hr/>
+Subject to change&nbsp;&copy; dbj@dbj.org , CC BY SA 4.0
 </div>
+<div style="clear: both;"></div>

@@ -4,6 +4,8 @@ title: TOGAF CMM
 description: TOGAF Architecture Capability Maturity Model — reference material for EA practitioners
 ---
 
+[← Knowledge Base](../index.md)
+
 # Capability Maturity Model (CMM)
 
 > Formal foundations: [TOGAF Architecture Maturity Models](https://pubs.opengroup.org/togaf-standard/architecture-maturity-models/)
@@ -74,9 +76,13 @@ Capability Maturity Models were developed by the [Software Engineering Institute
 
 *Reference: [TOGAF Architecture Maturity Models](https://pubs.opengroup.org/togaf-standard/architecture-maturity-models/)*
 
-<!-- Standard Footer -->
-<div style="clear: both;"></div>
+---
+
 <div style="float: center; margin: 1em; text-align: center;">
-<img src="../../assets/icl_logo.png" width="64px" /><br/>
-<a href="https://ironcodelabs.ai">&copy; Iron Code Labs Ltd</a>
+<!-- KB footer -->
+<br/>
+EA Navigates &trade;
+<hr/>
+Subject to change&nbsp;&copy; dbj@dbj.org , CC BY SA 4.0
 </div>
+<div style="clear: both;"></div>

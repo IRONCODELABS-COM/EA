@@ -4,6 +4,8 @@ title: LLM Adoption Decision Model — The 4-Level Test
 description: Four decision rules, one per architectural level, for evaluating LLM adoption
 ---
 
+[← Knowledge Base](../index.md)
+
 # LLM Adoption Decision Model — The 4-Level Test
 
 Before approving LLM use in any project, run it through four questions — one per architectural level. All four must pass. One failure means the LLM does not belong there.
@@ -103,9 +105,13 @@ One "no" anywhere — and you are building Fred Brooks' [second system](https://
 
 [Iron Code Labs Enterprise Taxonomy](https://ea.ironcodelabs.com/taxonomy.html)
 
-<!-- Standard Footer -->
-<div style="clear: both;"></div>
+---
+
 <div style="float: center; margin: 1em; text-align: center;">
-<img src="../../assets/icl_logo.png" width="64px" /><br/>
-<a href="https://ironcodelabs.ai">&copy; Iron Code Labs Ltd</a>
+<!-- KB footer -->
+<br/>
+EA Navigates &trade;
+<hr/>
+Subject to change&nbsp;&copy; dbj@dbj.org , CC BY SA 4.0
 </div>
+<div style="clear: both;"></div>

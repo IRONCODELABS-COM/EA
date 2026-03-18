@@ -4,6 +4,8 @@ title: LLM Governance Integrated into TOGAF ADM
 description: LLM governance controls mapped onto TOGAF ADM phases from Preliminary through Phase H
 ---
 
+[← Knowledge Base](../index.md)
+
 # LLM Governance Integrated into the ADM
 
 The [TOGAF ADM](https://en.wikipedia.org/wiki/The_Open_Group_Architecture_Framework) gives us a structured cycle for architecture work. Each phase has a natural point where LLM governance decisions belong. This document shows where to insert those controls — without inventing a parallel process.
@@ -193,9 +195,13 @@ Any phase where these checks are skipped is where the second system starts to gr
 
 *Reference: [Fred Brooks — Second-System Effect](https://en.wikipedia.org/wiki/Second-system_effect)*
 
-<!-- Standard Footer -->
-<div style="clear: both;"></div>
+---
+
 <div style="float: center; margin: 1em; text-align: center;">
-<img src="../../assets/icl_logo.png" width="64px" /><br/>
-<a href="https://ironcodelabs.ai">&copy; Iron Code Labs Ltd</a>
+<!-- KB footer -->
+<br/>
+EA Navigates &trade;
+<hr/>
+Subject to change&nbsp;&copy; dbj@dbj.org , CC BY SA 4.0
 </div>
+<div style="clear: both;"></div>

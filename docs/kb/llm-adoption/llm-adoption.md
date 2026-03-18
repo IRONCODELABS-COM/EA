@@ -4,6 +4,8 @@ title: LLM Adoption
 description: Enterprise architecture governance framework for introducing Large Language Models
 ---
 
+[← Knowledge Base](../index.md)
+
 # W.I.P.
 
 # LLM is not mandatory
@@ -136,9 +138,13 @@ A team tasked to approve the introduction of an LLM works through these in order
 
 *Reference: [Fred Brooks — Second-System Effect](https://en.wikipedia.org/wiki/Second-system_effect)*
 
-<!-- Standard Footer -->
-<div style="clear: both;"></div>
+---
+
 <div style="float: center; margin: 1em; text-align: center;">
-<img src="../../assets/icl_logo.png" width="64px" /><br/>
-<a href="https://ironcodelabs.ai">&copy; Iron Code Labs Ltd</a>
+<!-- KB footer -->
+<br/>
+EA Navigates &trade;
+<hr/>
+Subject to change&nbsp;&copy; dbj@dbj.org , CC BY SA 4.0
 </div>
+<div style="clear: both;"></div>
