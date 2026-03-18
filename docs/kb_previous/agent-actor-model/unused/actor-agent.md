@@ -6,21 +6,17 @@ description: How AI agents attach externally to an actor-model foundation — en
 
 # Actor-Agent Architecture
 
-> This document explores how AI Agents may be added externally to a system built on the [Actor Model Architecture](actor-model.md). It is a living document — added to as patterns emerge.
-{: .tip}
+This document explores how AI Agents may be added externally to a system built on the [Actor Model Architecture](actor-model.md). It is a living document — added to as patterns emerge.
 
 ---
 
 ## Foundation First
 
-> The Actor model with Protobuf binary messaging produces a sound, resilient distributed system on its own. Actors communicate through typed, schema-governed inbox contracts. State is fully encapsulated. The system is correct and operable without any AI component.
-{: .note}
+The Actor model with Protobuf binary messaging produces a sound, resilient distributed system on its own. Actors communicate through typed, schema-governed inbox contracts. State is fully encapsulated. The system is correct and operable without any AI component.
 
-> Agents are **not** the foundation. They are external additions that bring AI capabilities to specific, well-defined points in the system — where the structured, deterministic logic of Actors reaches the boundary of what rules can cover.
-{: .warning}
+Agents are **not** the foundation. They are external additions that bring AI capabilities to specific, well-defined points in the system — where the structured, deterministic logic of Actors reaches the boundary of what rules can cover.
 
-> This distinction matters. A system designed around Agents as the core becomes fragile: behaviour is probabilistic, contracts are implicit, and failure modes are harder to reason about. A system designed around Actors, with Agents as optional bolt-ons, remains predictable at its core.
-{: .important}
+This distinction matters. A system designed around Agents as the core becomes fragile: behaviour is probabilistic, contracts are implicit, and failure modes are harder to reason about. A system designed around Actors, with Agents as optional bolt-ons, remains predictable at its core.
 
 ---
 

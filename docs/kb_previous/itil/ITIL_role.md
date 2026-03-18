@@ -22,7 +22,9 @@ description: The Rol of ITIL in ICL Method
 | Architecture design and transformation | TOGAF / [ADM](../icl-adm/icl_adm.md) | *How to change* |
 | IT service quality and operational benchmarking | ITIL | *How well you run* |
 
-> TOGAF governs the *state transition*.  ITIL measures *operational fitness* of the current and target states. They are complementary, not competing. EA practice retains TOGAF for architecture governance; ITIL is adopted for IT landscape standards auditing and benchmarking.
+>**Important**
+>TOGAF governs the *state transition*.  ITIL measures *operational fitness* of the current and target states. 
+They are complementary, not competing. EA practice retains TOGAF for architecture governance; ITIL is adopted for IT landscape standards auditing and benchmarking.
 {: .important}
 
 ---
