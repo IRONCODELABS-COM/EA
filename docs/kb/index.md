@@ -100,16 +100,43 @@ The actor model as the foundation for resilient distributed and agentic systems.
 
 ---
 
-## 11 [Business & Technology](Busines_Technology_Landscapes/index.md)
+## 11 [Business & Technology Landscapes](Business_Technology_Landscapes/index.md)
 
-Enterprise Full View — Business & Technology Landscape
+Enterprise Full View — the Business and Technology landscapes, and EA's position between them. Covers business capabilities, products and services, information assets, application portfolio, infrastructure, integrations, and the capability mapping EA performs across both landscapes.
 
 > Business declares. Technology implements. EA aligns.
 {: .important}
 
 ---
 
-## 12 [ISO27001 != GDPR Compliance](ISO27001/ISO27001.md)
+## 12 [Business, Product, Technology](Business_Product_Technology/index.md)
+
+The three BPT segments in depth — purpose, boundaries, repositories, and the event-driven handoff model. Covers the ICL ADM wheel's relationship to each segment, the repository as decoupling mechanism, naming conventions (Application vs Product, Engineering vs Technology), and the prerequisites for a functioning loop. Includes the segment articles: [Business](Business_Product_Technology/Buiness.md), [Product](Business_Product_Technology/Product.md), [Technology](Business_Product_Technology/Technology.md).
+
+> The repository is the only channel. Segments never communicate directly.
+{: .important}
+
+---
+
+## 13 [Roles, Actors and Jurisdictions](Roles_Actors_Jurisdictions/index.md)
+
+Who works where in the BPT loop — roles, their segment jurisdictions, and the EA overarching role. Covers the boundary between roles and segments, why jurisdiction is not hierarchy, and the Engineering/Technology naming distinction.
+
+> Jurisdiction defines the work, not the person.
+{: .important}
+
+---
+
+## 15 [Engagement Architecture](engagement_architecture/index.md)
+
+How ICL structures customer engagements — from the ADM Boot Camp through to a deployable product. Covers the three-party workflow (Business, Product, Engineering), the customer AI layer, IT landscape analysis, and the traceable output back to Business architecture decisions.
+
+> No need to dive into the code if design is wrong.
+{: .important}
+
+---
+
+## 16 [ISO27001 != GDPR Compliance](ISO27001/ISO27001.md)
 
 **ISO 27001 is not sufficient for full GDPR compliance** because it focuses on information security management (the CIA triad) rather than the legal, data privacy rights mandated by GDPR. While ISO 27001 provides a robust framework for technical safeguards and risk management, it lacks GDPR-specific requirements like consent management, data subject access requests (DSARs), and strict legal bases for processing. 
 
@@ -121,7 +148,7 @@ Enterprise Full View — Business & Technology Landscape
 <div style="float: center; margin: 1em; text-align: center;">
 <!-- KB footer -->
 <br/>
-EA Navigates &trade;
+> EA Navigator ™ /  © dbj@dbj.org , CC BY SA 4.0
 <hr/>
 Subject to change&nbsp;&copy; dbj@dbj.org , CC BY SA 4.0
 </div>
