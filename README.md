@@ -1,9 +1,8 @@
-# Iron Code Labs 
+# DEPRECATED for https://method.dbj
+# Please see:  https://method.dbj.org/ip_advisory
 
-## [From Legacy Lock-in to AI Velocity](https://ironcodelabs.com/)
+### [From Legacy Lock-in to AI Velocity](https://ironcodelabs.com/)
 
-- This is published site
-- [Staging Site](https://ironcodelabs-com.github.io/EA_STG/)
 
 >[!NOTE]
-Unless otherwise declared &copy; by dbj@dbj.org  | CC BY SA 4.0 
+&copy; by Dusan Jovanovic (dbj@dbj.org)  | CC BY SA 4.0 
