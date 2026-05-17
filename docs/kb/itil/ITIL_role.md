@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: ITIL Role
 description: The Rol of ITIL in ICL Method
@@ -116,7 +116,3 @@ Target for consolidated IT landscape: **Level 3 minimum** across all Tier 1 serv
 
 *Document owner: Enterprise Architecture Practice*  
 *Framework references: [ITIL 4 Foundation](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation) (AXELOS), [TOGAF 10](https://www.opengroup.org/togaf) (The Open Group), [ICL ADM](../icl-adm/index.md)*
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

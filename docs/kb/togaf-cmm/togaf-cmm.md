@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: TOGAF CMM
 description: TOGAF Architecture Capability Maturity Model — reference material for EA practitioners
@@ -75,7 +75,3 @@ Capability Maturity Models were developed by the [Software Engineering Institute
 ---
 
 *Reference: [TOGAF Architecture Maturity Models](https://pubs.opengroup.org/togaf-standard/architecture-maturity-models/)*
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

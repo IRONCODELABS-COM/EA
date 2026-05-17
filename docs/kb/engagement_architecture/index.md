@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Engagement Architecture
 description: How ICL structures customer engagements — from initial onboarding through to a deployable product.
@@ -72,7 +72,3 @@ That is a feasible approach, simply because at upper levels of abstraction anoma
 ## Output — Customer Deployment Target
 
 The engagement produces a structured architecture product scoped to the customer's specific deployment target. It is the result of the iterative workflow above: approved by Business, built by Engineering, validated through UAT, and traceable back to the Product work and all the way back to the Business ADM-centric architecture.
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Legacy Ways of Software Documenting
 description: Legacy software architecture documentation frameworks — C4, arc42, ADRs — and why they are insufficient without a governing ADM.
@@ -87,7 +87,3 @@ The more accurate name for what development teams actually use them for is **Dev
 | Code-level traceability (Development only) | DDRs (ADRs repurposed) |
 
 ***A minimal viable documentation practice*** within th[e ICL A](../icl-adm/index.md)DM: C4 Context and Container diagrams for stakeholder communication[, ICL A](../icl-adm/index.md)DM deliverables for decisions and requirements. DDRs are optional and internal to the Development team.
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

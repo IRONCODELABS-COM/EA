@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Actor Model Architecture
 description: The actor model across all four taxonomy categories — from actor anatomy and message passing through to Protobuf contracts, fault domains, and schema governance.
@@ -233,7 +233,3 @@ The Protobuf schemas, envelope definition, train protocol, and message type defi
 ---
 
 *See also: [Email Use Case](email-use-case.md) — full worked example applying this model to organisational email management. [Actor-Agent Architecture](actor-agent.md) — how AI Agents may be added externally to this foundation.*
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

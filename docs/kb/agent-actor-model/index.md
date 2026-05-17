@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Agent-Actor Architecture
 description: How the AI Agent concept merges naturally onto the Actor model — Conceptual and Logical architecture.
@@ -186,7 +186,3 @@ Protobuf schemas, the Train Protocol wire format, and schema governance tooling 
 **Knowledge base** — deeper reference documents for this section:
 
 - [Email Management System — Use Case](email-use-case.md) — a worked example applying the `AgentActor` model to organisational email management
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

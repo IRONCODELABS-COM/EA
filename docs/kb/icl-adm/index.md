@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: ICL ADM
 description: A simplified ADM cycle for the ICL Method — how governance steps map across the full taxonomy
@@ -148,7 +148,3 @@ This concept applies to any project, driven by underlying ICL ADM wheel. Example
 - Wheel 3: **Data Governance wheel** — establishes data ownership, classification, and retention rules
 
 Each wheel is the same structure. Each wheel's artifacts are specific to its topic.
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

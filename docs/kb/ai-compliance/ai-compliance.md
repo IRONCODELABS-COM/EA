@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: The EU AI Compliance Act
 description:  The EU AI Act compliance deadline for high-risk AI systems is August 2026
@@ -38,7 +38,3 @@ At Iron Code Labs, we recommend closed-loop, pre-execution and runtime-integrate
 >
 > (pobably not a lucid and succinct text: https://lnkd.in/egw4eCC2)
 {: .note}
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

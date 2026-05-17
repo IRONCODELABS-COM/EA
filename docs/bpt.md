@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: The BPT Loop
 description: Business, Product, Technology — the ICL operational methodology governing continuous delivery.
@@ -83,7 +83,3 @@ BPT is Architecture Governance as a productized execution model. The BPT Loop do
 - [Roles, Actors and Jurisdictions](kb/Roles_Actors_Jurisdictions/index.md) — who works where in the BPT loop and why
 - [ICL ADM](kb/icl-adm/index.md) — the governance ADM (aka wheel) that operates above BPT
 - [CMM](cmm.md) — the maturity prerequisite
-
-
-
-> © dbj@dbj.org , CC BY SA 4.0

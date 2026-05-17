@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Business & Technology Landscape
 description: Clickable EA landscape diagram — Business and Technology landscapes aligned by Enterprise Architecture.
@@ -154,7 +154,3 @@ Governance outputs include architecture principles, technology standards, refere
 The EA roadmap is the **target state plan** — the sequenced programme of work that moves the organisation from its current architecture to its target architecture.
 
 It is derived from three inputs: business strategy (where the business is going), technology debt (what needs fixing), and capability gaps (what is missing). The roadmap is the primary instrument by which EA translates alignment into funded delivery.
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

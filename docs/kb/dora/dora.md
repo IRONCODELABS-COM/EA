@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: DORA AI Capabilities Model
 description: ICL usage of the DORA AI Capabilities Model as AI guidance framework for software development organizations.
@@ -78,7 +78,3 @@ The **DORA AI Capabilities Model** report, is a companion guide to the 2025 Stat
 Software development teams are classified as Elite, High, Medium, or Low performers based on these metrics. DORA metrics help quantify DevOps maturity and guide improvement efforts.
 
 **Google Cloud** is the primary company behind DORA.
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

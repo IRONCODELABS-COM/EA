@@ -1,4 +1,4 @@
-
+﻿
 [← Knowledge Base](../index.md)
 
 # Legacy Knowledge LLM Integration Architecture
@@ -73,6 +73,3 @@ The consumer (Agent) is shielded from:
 **Practical consequence**: You can replace an Oracle DB with a document store behind an MCP Server and the Agent never knows. The tool contract is the only interface that matters.
 
 This also means MCP Servers are where **data governance**, **access control**, and **audit logging** are enforced — consistently, regardless of what sits behind them.
----
-
-> © dbj@dbj.org , CC BY SA 4.0

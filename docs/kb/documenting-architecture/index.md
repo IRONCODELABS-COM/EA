@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: How to Document Software Architecture
 description: ICL approach to software architecture documentation — simpler and better than legacy ways.
@@ -32,7 +32,3 @@ Existing industry visualisation frameworks — C4, arc42 — do not follow these
 
 
 ## The level of abstraction defines a diagram's context
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

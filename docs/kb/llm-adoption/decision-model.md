@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: LLM Adoption Decision Model — The 4-Level Test
 description: Four decision rules, one per architectural level, for evaluating LLM adoption
@@ -104,7 +104,3 @@ One "no" anywhere — and you are building Fred Brooks' [second system](https://
 ### Reference
 
 [Iron Code Labs Enterprise Taxonomy](https://ea.ironcodelabs.com/taxonomy.html)
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

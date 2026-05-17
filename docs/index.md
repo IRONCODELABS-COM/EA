@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: AI ROI Method based on TOGAF
 description: Home
@@ -87,7 +87,3 @@ Architecture does not participate in the loop — it governs it.
 <!-- <a href="https://ironcodelabs.ai">&copy; Iron Code Labs Ltd</a> -->
 </div>
 <div style="clear: both;"></div>
-
-
----
-> © dbj@dbj.org , CC BY SA 4.0

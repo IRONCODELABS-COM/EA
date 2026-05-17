@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Taxonomy-Core
 description: ICL Enterprise Taxonomy — the Core
@@ -67,10 +67,3 @@ Meta data elements are given names to define the Taxonomy in the context of an c
 ![](assets/context_of_commercial_enterprise.png)
 
 </details>
-
-<!-- Standard Footer -->
-<div style="clear: both;"></div>
-<div style="float: center; margin: 1em; text-align: center;">
-<img src="assets/icl_logo.png" width="64px" /><br/>
-<a href="https://ironcodelabs.ai">&copy; Iron Code Labs Ltd</a>
-</div>

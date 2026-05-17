@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Business — BPT
 description: The Business segment of the BPT loop — declaration, ADM wheels, and the boundary with Product.
@@ -51,8 +51,4 @@ The Business segment always contains at least one wheel. In larger organisations
 
 ADM and BPT are decoupled by the three ADM Deliverables Repositories. Each repository is passive — it stores ADM deliverables and decouples the wheel from the segments. The BPT loop is driven by the four Activity Streams, which are the conceptual signaling mechanism between B, P, and T.
 
-A wheel that produces a purely Conceptual outcome — strategy, compliance assessment, capability map — places its deliverable in the Business repository. When a wheel deliverable declares a product, it lands in the Product repository. Product repository deliverables in turn feed the Technology repository. 
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0
+A wheel that produces a purely Conceptual outcome — strategy, compliance assessment, capability map — places its deliverable in the Business repository. When a wheel deliverable declares a product, it lands in the Product repository. Product repository deliverables in turn feed the Technology repository.

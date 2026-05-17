@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Roles, Actors and Jurisdictions
 description: Who works where in the BPT loop — roles, their jurisdictions, and why those boundaries exist.
@@ -68,7 +68,3 @@ EA does not implement, does not manage products, and does not operate infrastruc
 The BPT segments are named **Business**, **Product**, and **Technology**. The roles inside the Technology segment are Engineers and DevOps — *Engineering* describes the roles, *Technology* is the segment. This distinction matters when reading diagrams and deliverables: the segment name is always Technology.
 
 Definitions and terms may appear in singular or plural depending on the size of the organisation. It is rare for there to be only one product or one team. The model scales — see [One wheel or many](../icl-adm/index.md#one-or-many).
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

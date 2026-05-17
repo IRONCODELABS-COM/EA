@@ -1,4 +1,4 @@
-# Commercial Enterprise
+﻿# Commercial Enterprise
 
 ![](assets/context_of_commercial_enterprise.png)
 
@@ -100,10 +100,3 @@ In more precise terms, the purpose of EA is to:
 * It is the essential comon langugage of the organization
 
 See [Taxonomy](taxonomy.md) for details.
-
-<!-- Standard Footer -->
-<div style="clear: both;"></div>
-<div style="float: center; margin: 1em; text-align: center;">
-<img src="assets/icl_logo.png" width="64px" /><br/>
-<a href="https://ironcodelabs.ai">&copy; Iron Code Labs Ltd</a>
-</div>

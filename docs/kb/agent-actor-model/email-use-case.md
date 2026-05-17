@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Email Management System — AgentActor Use Case
 description: A full worked example applying the AgentActor unified concept to organisational email management — AgentActor inventory, conversation maps, and large-payload flows.
@@ -208,7 +208,3 @@ Protobuf schemas, envelope definition, train protocol, and message type definiti
 ---
 
 *See also: [Agent-Actor Architecture](index.md) — the `AgentActor` unified concept at Conceptual and Logical levels.*
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

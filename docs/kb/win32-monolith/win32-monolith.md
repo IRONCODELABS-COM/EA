@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Win32 Monolith Modernization
 description: Enterprise architecture approach for modernizing a legacy Win32 monolith with a web front end — Strangler Fig pattern, ACL, MCP Server, and AI integration.
@@ -205,7 +205,3 @@ graph LR
 
 
 **QUESTION**: What is the Win32 monolith's existing IPC surface, if any?
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

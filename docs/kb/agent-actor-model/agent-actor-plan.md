@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Agent-Actor Architecture — Plan and Decision Log
 description: Working spec and decision log for the agent-actor KB restructuring.
@@ -162,7 +162,3 @@ Primary partitioning of content follows the taxonomy categories:
 - [x] Remove `AgentActor` suffix from diagram node labels — role name only
 - [x] Simplify Messages section — Type / Instance / Attribute, no redundant "Message" prefix
 - [ ] Merge branch `agent-actor-model` to `main` when `index.md` is reviewed and approved
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

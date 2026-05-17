@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: EA AI Guidance
 description: Iron Code Labs EA AI guiding principles
@@ -50,12 +50,3 @@ The DORA AI report will resonate true for several years. Until further notice. A
 
 
 ---
-
-
-
-<!-- Standard Footer -->
-<div style="clear: both;"></div>
-<div style="float: center; margin: 1em; text-align: center;">
-<img src="assets/icl_logo.png" width="64px" /><br/>
-<a href="https://ironcodelabs.ai">&copy; Iron Code Labs Ltd</a>
-</div>

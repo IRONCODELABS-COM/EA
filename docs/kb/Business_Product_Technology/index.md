@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Business, Product, Technology
 description: The three BPT segments explained — structure, boundaries, repositories, and the four Activity Streams.
@@ -73,7 +73,3 @@ The ADM wheel does not hand deliverables to people — it places them in the rep
 
 **Prerequisites.**
 The BPT loop assumes organisational readiness: established capabilities, governance, and stakeholder management. The entry condition is [ACMM Level 3](../../cmm.md). Below that threshold the loop cannot sustain itself.
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

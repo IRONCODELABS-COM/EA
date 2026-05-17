@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Architecture Board Decision Template — LLM Approval
 description: Ten-question approval gate for Architecture Board LLM decisions
@@ -115,7 +115,3 @@ Questions are grouped by [ICL Enterprise Taxonomy](https://ea.ironcodelabs.com/t
 *A score below 10/10 is not a negotiation — it means the architecture has a gap. Fix the gap, not the question.*
 
 *Reference: [Fred Brooks — Second-System Effect](https://en.wikipedia.org/wiki/Second-system_effect)*
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

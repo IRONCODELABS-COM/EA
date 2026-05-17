@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Actor-Agent Architecture
 description: How AI agents attach externally to an actor-model foundation — entering through typed inboxes as the translation layer between LLM text and Protobuf contracts.
@@ -90,7 +90,3 @@ When adding an Agent to an Actor system, the following constraints apply:
 ---
 
 *This document will grow as patterns are validated. See also: [Actor Model Architecture](actor-model.md) and [Email Use Case](email-use-case.md) — how AI Agents may be added externally to this system.*
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

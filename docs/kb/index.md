@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Knowledge Base
 description: Iron Code Labs EA knowledge base — structured reference material on enterprise architecture topics
@@ -189,7 +189,3 @@ Appraisal of *Documenting Software Architectures: Views and Beyond, 2nd Edition*
 {: .important}
 
 </details>
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

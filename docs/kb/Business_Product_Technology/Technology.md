@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Technology — BPT
 description: The Technology segment of the BPT loop — implementation, the Engineering roles, and the Evaluate feedback.
@@ -52,7 +52,3 @@ Technology owns the signal. Business interprets it. EA ensures the feedback is v
 ## The boundary
 
 Technology owns the *how it is built and run*. It does not own what is built (Business) or what the specifications are (Product). Architectural decisions that surface during Technology work — structural changes to the product, new capability requirements — are escalated to EA, not resolved inside the Technology segment.
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

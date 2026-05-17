@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Taxonomy
 description: ICL Enterprise Taxonomy — structure, terminology, and usage
@@ -152,11 +152,3 @@ Each staff member holds a Role — such as Product Owner, Enterprise Architect, 
 Actors are not always humans. At different levels of abstraction — or from different Points of View (POV) — an Actor may be a system, a service, or an automated process.
 
 *Example: An Enterprise Architect and a Business Analyst both operate within the "Business" Capability of the "Conceptual" Category — one defines the structure, the other elaborates the requirements. The Role names differ; the Capability they serve is the same.*
-
-
-<!-- Standard Footer -->
-<div style="clear: both;"></div>
-<div style="float: center; margin: 1em; text-align: center;">
-<img src="assets/icl_logo.png" width="64px" /><br/>
-<a href="https://ironcodelabs.ai">&copy; Iron Code Labs Ltd</a>
-</div>

@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: LLM Adoption
 description: Enterprise architecture governance framework for introducing Large Language Models
@@ -140,7 +140,3 @@ A team tasked to approve the introduction of an LLM works through these in order
 > Do not make LLM a "[Single Point of Failure](https://en.wikipedia.org/wiki/Single_point_of_failure)"
 
 *Reference: [Fred Brooks — Second-System Effect](https://en.wikipedia.org/wiki/Second-system_effect)*
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

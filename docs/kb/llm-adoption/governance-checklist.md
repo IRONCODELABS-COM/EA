@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: EA Governance Checklist — LLM Adoption
 description: Binary checklist for Architecture Decision Record validation before LLM approval
@@ -84,7 +84,3 @@ Any failed gate = architectural violation. Redesign before resubmitting.
 ---
 
 *Reference: [Fred Brooks — Second-System Effect](https://en.wikipedia.org/wiki/Second-system_effect)*
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

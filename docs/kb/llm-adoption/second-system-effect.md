@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: LLM and the Second-System Effect
 description: Why unconstrained LLM adoption leads to over-engineered systems
@@ -152,7 +152,3 @@ The mistake is not using LLMs. The mistake is:
 ---
 
 *Reference: [Fred Brooks — Second-System Effect](https://en.wikipedia.org/wiki/Second-system_effect)*
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

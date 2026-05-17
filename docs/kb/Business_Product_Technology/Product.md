@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Product — BPT
 description: The Product segment of the BPT loop — alignment, the Application layer, and the boundary between Business and Technology.
@@ -46,7 +46,3 @@ In TOGAF ADM terms, this layer is called the **Application Layer** — the ADM s
 ## The boundary
 
 Product owns the *alignment* — the translation between what Business declares and what Technology builds. It does not own strategy (Business) and it does not own implementation (Technology). Engineering concerns that surface during Product work are passed to the Technology repository as constraints, not resolved inside the Product segment.
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

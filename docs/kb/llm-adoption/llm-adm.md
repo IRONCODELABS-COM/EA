@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: LLM Governance Integrated into TOGAF ADM
 description: LLM governance controls mapped onto TOGAF ADM phases from Preliminary through Phase H
@@ -194,7 +194,3 @@ Any phase where these checks are skipped is where the second system starts to gr
 ---
 
 *Reference: [Fred Brooks — Second-System Effect](https://en.wikipedia.org/wiki/Second-system_effect)*
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0

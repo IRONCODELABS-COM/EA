@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: ANI Is Not AGI
 description: Why AGI is an unreachable milestone — and why the distinction matters
@@ -68,7 +68,3 @@ ANI is real, deployable, and governable. AGI is a philosophical milestone whose 
 ---
 
 March 2026, [Dusan Jovanovic](https://dusanjovanovic.org/)
-
----
-
-> © dbj@dbj.org , CC BY SA 4.0
