@@ -32,7 +32,7 @@ graph TD
 - Target: Azure Cloud 
   - Azure VM's can host any kind of WIN legacy systems
   - Full complement of distribution and security features
-  - Loggin, Backups, Monitoring -- all is in the Box
+  - Login, Backups, Monitoring -- all is in the Box
   
 
 ### Data Layer
@@ -43,7 +43,7 @@ graph TD
 
 ### Application Layer
   
-- Target: Web Server in a container (.NET C#, because it can integrate with all win32 legacy in the back, it is fylly supported and is a native Cloud citizen)
+- Target: Web Server in a container (.NET C#, because it can integrate with all win32 legacy in the back, it is fully supported and is a native Cloud citizen)
   - Why container?
     - It is easy to deploy 
     - It  can be horizontaly scaled for resilience and scalability
@@ -76,7 +76,7 @@ Introduce a thin backend service (the ACL) that is a "Facade" to the Win32 monol
 graph LR
     B(["Browser"])
     WF(["Web Server"])
-    ACL(["Anti Coruption Layer"])
+    ACL(["Anti Corruption Layer"])
     WIN(["Win32 Monolith<br/>COM · RPC · named pipes · CLI"])
     DB(["RDBMS"])
 
@@ -125,7 +125,7 @@ graph LR
 
 Extract modules in order of: highest business value first, lowest coupling second.
 
-> Modularization is diffuclt technicaly. Also logicalt because it has to be business driven. One business function =~ One module
+> Modularization is difficult technically. Also logically because it has to be business driven. One business function =~ One module
 {: .important}
 
 ## 3 AI Integration — MCP Server as Anti-Corruption Layer
