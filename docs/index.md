@@ -11,13 +11,14 @@ description: Home
 
 
 >This Method also exists to facilitate safe journey of an legacy enterprise to AI enabled organizaton
->
-> General [AI Guidance](ai.md)
-{: note}
+{: .note}
+
+> AI and the [Legacy Iceberg](ai.md)
+{: .note}
 
 # Iron Code Labs Enterprise Management Method 
 
-ICL enables clients with a Method based on [TOGAF](https://www.opengroup.org/togaf). ICL Method is a framework keeping the organisation running in a feasible fashion and repeatedly raising the AI ROI level.
+ICL enables clients with a DBJ Method based on [TOGAF](https://www.opengroup.org/togaf). DBJ Method is a framework keeping the organisation running in a feasible fashion and repeatedly raising the AI ROI level.
 
 <!-- ![](assets/warwick-journey-image.png) -->
 
@@ -26,7 +27,7 @@ ICL enables clients with a Method based on [TOGAF](https://www.opengroup.org/tog
 <!-- ![](index_assests/bpt-method-insights.png)
 The outcome of the Iron Code Labs Engagement -->
 
-## The Iron Code Labs (ICL) Method has two stages:
+## DBJ Method has two stages:
 
 - [On-boarding](#on-boarding)
 - [Business, Product, Technology Loop](#business-product-technology-loop)
@@ -34,11 +35,11 @@ The outcome of the Iron Code Labs Engagement -->
 
 ## On-boarding
 
-In this step ICL Method prepares clients for architecture-led delivery by putting them on firm [capability maturity foundations](cmm.md#diagram).
+In this step DBJ Method prepares ICL clients for architecture-led delivery by putting them on firm [capability maturity foundations](cmm.md#diagram).
 
 ### Preparing for the [Maturity Levels](cmm.md#levels)
 
-ICL Method leads the assessment of the client's current organisational maturity levels using the ACMM Levels [L0–L5](cmm.md#levels-and-characteristics) nomenclature. In this step ICL Method:
+DBJ Method leads the assessment of the client's current organisational maturity levels using the ACMM Levels [L0–L5](cmm.md#levels-and-characteristics) nomenclature. In this step DBJ Method:
 
 - Establishes a common vocabulary: the [Taxonomy](taxonomy.md) — the shared language of the organisation's information space
 - Classifies capability gaps using the ACMM scorecard
@@ -48,15 +49,15 @@ Potential deliverable: ACMM baseline assessment + ICL Method improvement roadmap
 
 ### Raising the Organisation to CMM Level [L3](cmm.md#levels)
 
-ICL Method defines and documents architecture processes — moving the organisation from ad-hoc (L1) to defined (L3).
+DBJ Method defines and documents architecture processes — moving the organisation from ad-hoc (L1) to defined (L3).
 
 - Establishes governance structures and secures senior management involvement
 - Analyzes and documents architecture-driven communication practices across the organisation
 - Anchors the [shared lexicon](taxonomy.md) as a durable organisational asset — the structural mesh holding the information space together
 
-Potential Deliverable: Documented processes and organisation operating at CMM level [L3](cmm.md#levels) 
+> Potential Deliverable: Documented processes and organisation operating at CMM level [L3](cmm.md#levels) 
 
-For full detail on the organization maturity model see the [ICL CMM](cmm.md).
+For full detail on the organization maturity model see the [DBJ CMM](cmm.md).
 
 ## [Business, Product, Technology](bpt.md) Loop
 
@@ -64,7 +65,7 @@ For full detail on the organization maturity model see the [ICL CMM](cmm.md).
 
 Once on-boarded to maturity [Level 3](cmm.md#levels) (or above), the client organisation enters the **BPT Loop** — a continuous cycle of three clearly decoupled parts: **Business**, **Product** and **Technology**. This is Iron Code Labs' delivery-focused operational methodology for AI-ready organisations. 
 
-BPT Loop is using deliverables from projects based on [ICL ADM "Wheel"](kb/icl-adm/index.md). These deliverales are organized into three repositories following the BPT segments,
+BPT Loop is using deliverables from projects based on [DBJ ADM "Wheel"](kb/icl-adm/index.md). These deliverales are organized into three repositories following the BPT segments,
 
 <img src="bpt_assets/bpt-meta-loop-complex.png" width="75%" >
 
@@ -77,9 +78,10 @@ BPT Loop is using deliverables from projects based on [ICL ADM "Wheel"](kb/icl-a
 * Continuous loop maps to operational rhythm, not rigid phase gates
 * ADM "Wheel's" and B,P or T segements depend on each other but they oprate indepedently of each other. 
 
-ICL Method provides the bridge over which customers cross from the chaos of Legacy to the feasibility of AI.
+DBJ Method provides the bridge over which customers cross from the chaos of Legacy to the feasibility of AI.
 
-Architecture does not participate in the loop — it governs it.
+> ICL CLients Architecture does not participate in the loop — it governs it.
+{: .tip}
 
 <div style="float: center; margin: 1em; text-align: center;">
 <img src="index_assests/empty-medieval-bridge.jpg" width="480px" />
